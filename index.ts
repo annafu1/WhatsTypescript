@@ -1,7 +1,7 @@
 // Import stylesheets
-import './style.css';
+//import './style.css';
 
-
+const url: string = 'https://api.dictionaryapi.dev/api/v2/entries/en';
 const form: HTMLFormElement = document.querySelector('#defineform');
 
 
